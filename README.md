@@ -94,7 +94,6 @@
 - S3
 - CloudFront
 - CodeCommit
--
 
 #### 構築可能
 
@@ -128,6 +127,8 @@
 - **利用技術：**
   - AWS(CDK、 S3、 CloudFront 等)、 TypeScript、 Nuxt.js、 Bitbucket、 Jira、 OpenAPI
 
+---
+
 #### 不動産 物件ポータルサイト構築
 
 フロントエンド開発リーダーとして参画
@@ -138,6 +139,8 @@ AWS 上にフロントエンド向けインフラ構築、CI/CD 構築
   - 15 人
 - **利用技術：**
   - AWS(S3、 CloudFront 等)、 TypeScript、 Nuxt.js、 GitHub、 OpenAPI
+
+---
 
 #### 社内出退勤管理サイト構築
 
@@ -150,6 +153,8 @@ AWS 上にインフラ構築、TypeScript を使用した API 開発、Nuxt.js �
 - **利用技術：**
   - AWS(ECS、 ELB、 VPC、 Cognito、 RDS 等)、 TypeScript(TypeORM)、 Nuxt.js
 
+---
+
 #### 中古流通 EC サイトエンハンス
 
 フロントエンド開発、サーバーサイド開発を担当
@@ -159,6 +164,8 @@ API から取得したデータを FuelPHP で整形し、Vue.js を使用して
   - 20 人
 - **利用技術：**
   - FuelPHP,、Vue.js、 html、 css、 Gitlab、 backlog
+
+---
 
 ### 株式会社スタイル・フリー （2018/04〜2018/12）
 
