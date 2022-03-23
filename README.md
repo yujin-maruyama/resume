@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic&logoColor=white">
 </p>
 
-## 得意領域
+### 得意領域
 
 - AWS を用いたインフラ環境設計、構築
 - AWS CDK による IaC 構築
@@ -48,73 +48,33 @@
 
 ### 言語
 
-- JavaScript
-- Node.js
-- TypeScript
-- PHP
-- CSS
-- HTML
+JavaScript / Node.js / TypeScript / PHP / CSS / HTML
 
 ### ライブラリ、フレームワーク
 
-- Vue.js
-- Nuxt.js
-- Laravel
-- Bootstrap
-- Bootstrap Vue
-- Vuetify
-- JQuery
+Vue.js / Nuxt.js / Laravel / Bootstrap / Bootstrap Vue / Vuetify / JQuery
 
 ### OS
 
-- Windows
-- Linux
+Windows / Linux
 
 ### エディタ、IDE
 
-- VS Code
+VS Code
 
 ### クラウド・その他
 
-- AWS
-- AWS CDK
-- Docker
-- OpenAPI(Swagger)
-- Auth0
-- Vite
+AWS / AWS CDK / Docker / OpenAPI(Swagger) / Auth0 / Vite
 
 ### AWS
 
 #### 得意
 
-- API Gateway
-- Lambda
-- DynamoDB
-- ECS
-- Fargate
-- ECR
-- CodePipeline
-- AWS Amplify
-- S3
-- CloudFront
-- CodeCommit
-- CodeBuild
-- CodeDeploy
+API Gateway / Lambda / DynamoDB / ECS / Fargate / ECR / CodePipeline / AWS Amplify / S3 / CloudFront / CodeCommit / CodeBuild / CodeDeploy
 
 #### 構築可能
 
-- Route53
-- RDS
-- IAM
-- VPC
-- Elastic Load Balancing
-- Cognito
-- CloudWatch
-- Step Functions
-- Systems Manager
-- WAF & Shield
-- QuickSight
-- Amazon Pinpoint
+Route53 / RDS / IAM / VPC / Elastic Load Balancing / Cognito / CloudWatch / Step Functions / Systems Manager / WAF & Shield / QuickSight / Amazon Pinpoint
 
 ---
 
@@ -165,11 +125,11 @@ AWS 上にフロントエンド向けインフラ構築、CI/CD 構築
 インフラ設計、インフラ構築、認証基盤構築、API 設計、API 開発、フロントエンド開発、各レビュー、 CI/CD 構築を担当
 
 - AWS 上にインフラ構築
-  - Amplifyによるフロントエンド環境構築
-  - ECS on FargateによるAPI環境構築
+  - Amplify によるフロントエンド環境構築
+  - ECS on Fargate による API 環境構築
   - APIGateway を使用した WebSocket API の構築
   - Lambda@Edge を使用した画像リサイズ、画像フォーマットを webP に変換する機能 の構築
-  - Cognitoによる認証基盤構築
+  - Cognito による認証基盤構築
 - TypeScript を使用した API 開発
 - Nuxt.js を使用したフロントエンド開発
 
@@ -208,8 +168,8 @@ API から取得したデータを FuelPHP で整形し、Vue.js を使用して
 
 ## 意欲・関心
 
-チーム作りやプロジェクト管理、開発手法、設計手法に強い関心があります。（Agile、Scrum、DDD、Clean Architecture、OOUI など勉強中です）
-技術としては Vue.js（Nuxt.js、TypeScript）、PHP、AWS（CDK）が得意であり、これらを使用してインフラからフロントエンドまで一貫して構築できますが技術にたいしてのこだわりはなく、状況に応じて適切なものを選ぶことが大切だと考えているため、新しい技術の習得に対する意欲や好奇心は高いです。
+チーム作りやプロジェクト管理、開発手法、設計手法に強い関心があります（Agile、Scrum、DDD、Clean Architecture、OOUI など勉強中です）。
+技術としては Nuxt.js（Vue.js）、TypeScript、PHP、AWS（CDK）が得意であり、これらを使用してインフラからフロントエンドまで一貫して構築できますが技術にたいしてのこだわりはなく、状況に応じて適切なものを選ぶことが大切だと考えているため、新しい技術の習得に対する意欲や好奇心は高いです。
 
 そのほか Schema Driven な開発、CI/CD の整備された開発環境が好きであり、整備されていなければそれらを導入することも好みます。
 
