@@ -11,16 +11,6 @@
 
 ---
 
-## 得意領域
-
-- AWS を用いたインフラ環境構築
-- AWS CDK による IaC 構築
-- Nuxt.js、TypeScript による SPA、SSR 等のモダンな Web アプリケーションフロントエンド開発
-- GitHub Actions、AWS CodePipeline 、Bitbucket Pipeline を使用した CI/CD 構築
-- PHP（Laravel、FuelPHP）によるサーバーサイド開発
-
----
-
 ## 技術スタック
 
 <p>
@@ -42,7 +32,19 @@
   <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white" />
   <img src="https://img.shields.io/badge/-Auth0-EB5424.svg?logo=auth0&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Vite-646CFF?logo=Vite&style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">
+  <img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic&logoColor=white">
 </p>
+
+## 得意領域
+
+- AWS を用いたインフラ環境設計、構築
+- AWS CDK による IaC 構築
+- Nuxt.js、TypeScript による SPA、SSR 等のモダンな Web アプリケーションフロントエンド開発
+- GitHub Actions、AWS CodePipeline 、Bitbucket Pipeline を使用した CI/CD 構築
+- PHP（Laravel、FuelPHP）によるサーバーサイド開発
+
+---
 
 ### 言語
 
@@ -59,6 +61,8 @@
 - Nuxt.js
 - Laravel
 - Bootstrap
+- Bootstrap Vue
+- Vuetify
 - JQuery
 
 ### OS
@@ -94,6 +98,8 @@
 - S3
 - CloudFront
 - CodeCommit
+- CodeBuild
+- CodeDeploy
 
 #### 構築可能
 
@@ -104,11 +110,11 @@
 - Elastic Load Balancing
 - Cognito
 - CloudWatch
+- Step Functions
 - Systems Manager
 - WAF & Shield
 - QuickSight
 - Amazon Pinpoint
-- Step Functions
 
 ---
 
@@ -116,20 +122,31 @@
 
 ### KeepAlive 株式会社（2019/01〜現在）
 
-#### アパレル EC モールサイト リプレース
+### 中古流通 EC サイト保守、OJT 研修（2022 年 2 月 ～ ）
+
+主にタスク管理や OJT による新人教育、研修を担当
+
+- **プロジェクト規模：**
+  - 20 人
+- **利用技術：**
+  - FuelPHP,、Vue.js、AWS、 html、 css、Docker、 Gitlab、 backlog
+
+---
+
+### アパレル EC モールサイト リプレース（2021 年 2 月 ～ 2022 年 1 月）
 
 インフラ・アプリの基盤構築
-インフラ環境構築・CI/CD 整備や Nuxt.js アプリケーション、OpenAPI 雛形構築
+インフラ環境設計、構築・CI/CD 整備や Nuxt.js アプリケーション、OpenAPI 雛形構築
 そのほかに API の基本設計、詳細設計を担当
 
 - **プロジェクト規模：**
   - 70 人
 - **利用技術：**
-  - AWS(CDK、 S3、 CloudFront 等)、 TypeScript、 Nuxt.js、 Bitbucket、 Jira、 OpenAPI
+  - AWS(CDK)、 TypeScript、 Nuxt.js、 OpenAPI、Docker、Bitbucket、 Jira
 
 ---
 
-#### 不動産 物件ポータルサイト構築
+### 不動産 物件ポータルサイト構築（2020 年 5 月 ～ 2021 年 1 月）
 
 フロントエンド開発リーダーとして参画
 フロントエンドの基本設計、アプリケーション雛形作成、開発、コードレビュー
@@ -138,24 +155,32 @@ AWS 上にフロントエンド向けインフラ構築、CI/CD 構築
 - **プロジェクト規模：**
   - 15 人
 - **利用技術：**
-  - AWS(S3、 CloudFront 等)、 TypeScript、 Nuxt.js、 GitHub、 OpenAPI
+  - AWS(S3、 CloudFront 等)、 TypeScript、 Nuxt.js、 OpenAPI、Docker、GitHub、Jira
 
 ---
 
-#### 社内出退勤管理サイト構築
+### 社内出退勤管理サイト構築（2019 年 10 月 ～ ）
 
 開発リーダーとして参画
 インフラ設計、インフラ構築、認証基盤構築、API 設計、API 開発、フロントエンド開発、各レビュー、 CI/CD 構築を担当
-AWS 上にインフラ構築、TypeScript を使用した API 開発、Nuxt.js を使用したフロントエンド開発やそのほか APIGateway を使用した WebSocket API の構築、Lambda@Edge を使用した画像リサイズ CDN の構築
+
+- AWS 上にインフラ構築
+  - Amplifyによるフロントエンド環境構築
+  - ECS on FargateによるAPI環境構築
+  - APIGateway を使用した WebSocket API の構築
+  - Lambda@Edge を使用した画像リサイズ、画像フォーマットを webP に変換する機能 の構築
+  - Cognitoによる認証基盤構築
+- TypeScript を使用した API 開発
+- Nuxt.js を使用したフロントエンド開発
 
 - **プロジェクト規模：**
   - 10 人
 - **利用技術：**
-  - AWS(ECS、 ELB、 VPC、 Cognito、 RDS 等)、 TypeScript(TypeORM)、 Nuxt.js
+  - AWS(ECS、 ELB、 VPC、APIGateway、Amplify、Lambda、 Cognito、 RDS 等)、 TypeScript(TypeORM)、 Nuxt.js、Docker、GitHub、Jira
 
 ---
 
-#### 中古流通 EC サイトエンハンス
+### 中古流通 EC サイトエンハンス（2019 年 1 月 ～ 2020 年 4 月）
 
 フロントエンド開発、サーバーサイド開発を担当
 API から取得したデータを FuelPHP で整形し、Vue.js を使用して画面表示
@@ -163,13 +188,13 @@ API から取得したデータを FuelPHP で整形し、Vue.js を使用して
 - **プロジェクト規模：**
   - 20 人
 - **利用技術：**
-  - FuelPHP,、Vue.js、 html、 css、 Gitlab、 backlog
+  - FuelPHP,、Vue.js、AWS、 html、 css、Docker、 Gitlab、 backlog
 
 ---
 
 ### 株式会社スタイル・フリー （2018/04〜2018/12）
 
-#### 美容師と美容室のマッチングサイト開発
+### 美容師と美容室のマッチングサイト開発（2018 年 4 月 ～ 2018 年 12 月）
 
 開発全般およびモック作成、テストを担当
 機能開発全般を Laravel で実施
@@ -177,10 +202,17 @@ API から取得したデータを FuelPHP で整形し、Vue.js を使用して
 - **プロジェクト規模：**
   - 5 人
 - **利用技術：**
-  - Laravel、jQuery、html、css
+  - Laravel、jQuery、html、css、Docker、 Gitlab、 backlog
 
 ---
 
 ## 意欲・関心
 
----
+チーム作りやプロジェクト管理、開発手法、設計手法に強い関心があります。（Agile、Scrum、DDD、Clean Architecture、OOUI など勉強中です）
+技術としては Vue.js（Nuxt.js、TypeScript）、PHP、AWS（CDK）が得意であり、これらを使用してインフラからフロントエンドまで一貫して構築できますが技術にたいしてのこだわりはなく、状況に応じて適切なものを選ぶことが大切だと考えているため、新しい技術の習得に対する意欲や好奇心は高いです。
+
+そのほか Schema Driven な開発、CI/CD の整備された開発環境が好きであり、整備されていなければそれらを導入することも好みます。
+
+## 今後やっていきたいこと
+
+引き続き技術について幅広く理解を深めつつ、マネジメントのスキルを身に着けたいと考えております。キャリアとしてはマネージャーを目指しており、良質なプロダクトを健全に開発するための開発手法、設計手法やプロジェクトのマネジメント能力を身に着けていくことが目標です。
