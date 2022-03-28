@@ -38,7 +38,7 @@
 
 ### 得意領域
 
-- AWS を用いたインフラ環境設計、構築
+- AWS を用いたインフラ環境設計、構築（サーバレス領域中心）
 - AWS CDK による IaC 構築
 - Nuxt.js、TypeScript による SPA、SSR、SSG 等のモダンな Web アプリケーションフロントエンド開発
 - GitHub Actions、AWS CodePipeline 、Bitbucket Pipeline を使用した CI/CD 構築
