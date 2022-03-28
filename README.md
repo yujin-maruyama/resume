@@ -40,7 +40,7 @@
 
 - AWS を用いたインフラ環境設計、構築
 - AWS CDK による IaC 構築
-- Nuxt.js、TypeScript による SPA、SSR 等のモダンな Web アプリケーションフロントエンド開発
+- Nuxt.js、TypeScript による SPA、SSR、SSG 等のモダンな Web アプリケーションフロントエンド開発
 - GitHub Actions、AWS CodePipeline 、Bitbucket Pipeline を使用した CI/CD 構築
 - PHP（Laravel、FuelPHP）によるサーバーサイド開発
 
@@ -89,7 +89,7 @@ Route53 / RDS / IAM / VPC / Elastic Load Balancing / Cognito / CloudWatch / Step
 - **プロジェクト規模：**
   - 20 人
 - **利用技術：**
-  - FuelPHP,、Vue.js、AWS、 html、 css、Docker、 Gitlab、 backlog
+  - FuelPHP、Vue.js、AWS、 html、 css、Docker、 Gitlab、 backlog
 
 ---
 
@@ -148,7 +148,7 @@ API から取得したデータを FuelPHP で整形し、Vue.js を使用して
 - **プロジェクト規模：**
   - 20 人
 - **利用技術：**
-  - FuelPHP,、Vue.js、AWS、 html、 css、Docker、 Gitlab、 backlog
+  - FuelPHP、Vue.js、AWS、 html、 css、Docker、 Gitlab、 backlog
 
 ---
 
@@ -175,4 +175,4 @@ API から取得したデータを FuelPHP で整形し、Vue.js を使用して
 
 ## 今後やっていきたいこと
 
-引き続き技術について幅広く理解を深めつつ、マネジメントのスキルを身に着けたいと考えております。キャリアとしてはマネージャーを目指しており、良質なプロダクトを健全に開発するための開発手法、設計手法やプロジェクトのマネジメント能力を身に着けていくことが目標です。
+引き続き技術について幅広く理解を深めつつ、マネジメントのスキルを身に着けたいと考えております。キャリアとしてはマネージャーを目指しており、良質なプロダクトを健全に開発するための開発手法や設計手法、再現性の高いチーム作りやプロジェクトのマネジメント能力を身に着けていくことが目標です。
